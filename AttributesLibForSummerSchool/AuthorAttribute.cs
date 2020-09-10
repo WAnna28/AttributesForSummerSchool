@@ -23,5 +23,5 @@ namespace AttributesLibForSummerSchool
 
     }
 
-    // Attribute - Code Snipet
+    // Attribute - Code Snippet
 }
